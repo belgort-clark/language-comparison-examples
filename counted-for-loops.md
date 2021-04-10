@@ -5,7 +5,7 @@
 Examples of counted Loops that iterate 5 times
 
 ```javascript
-for(let i=0; i<5; $i++){
+for(let i=0; i<5; i++){
     console.log(i);
 }
 ```
