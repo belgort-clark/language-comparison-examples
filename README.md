@@ -1,4 +1,4 @@
-# language-comparison-examples
+# Language Comparison Examples
 
 Examples are show for:
 
