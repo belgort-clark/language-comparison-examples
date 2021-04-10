@@ -1,4 +1,4 @@
-# If Statements
+# If Statements - Decision Structures
 
 ## JavaScript
 
