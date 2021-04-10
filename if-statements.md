@@ -37,23 +37,21 @@ a = 5
 b = 7
 
 # basic if
-if(a >= b){
+if(a >= b):
     print("a is greater than or equal to b")
-} 
+
 
 # if with else
-if(a >= b){
+if(a >= b):
     print("a is greater than or equal to b")
-} else {
+else: 
     print("b is less than a")
-}
 
 # if with else if
-if(a >= b){
+if(a >= b):
     print("a is greater than or equal to b")
-} else if (a < b){
+elif (a < b):
     print("a is less than b")
-}
 ```
 
 ## PHP
