@@ -23,6 +23,8 @@ for i in range(5):
 
 ## Counted Loop in PHP
 
+[PHP for loop](https://www.w3schools.com/php/php_looping_for.asp)
+
 ```php
 for($i=0;$i<5;$i++){
     echo $i;
