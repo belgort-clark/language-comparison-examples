@@ -14,3 +14,4 @@ Example code for:
 - [Variable Assignment](variable-assignment.md)
 - [Functions without Arguments](functions-with-no-arguments.md)
 - [Functions with Arguments](functions-with-arguments.md)
+- [Functions with Returns](functions-with-returns.md)
