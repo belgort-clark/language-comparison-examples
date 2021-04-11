@@ -15,3 +15,4 @@ Example code for:
 - [Functions without Arguments](functions-with-no-arguments.md)
 - [Functions with Arguments](functions-with-arguments.md)
 - [Functions with Returns](functions-with-returns.md)
+- [The Ternary Operator](ternary-operator.md)
