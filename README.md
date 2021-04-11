@@ -12,3 +12,5 @@ Example code for:
 - [Indefinite Loops (while loops)](indefinite-while-loops.md)
 - [If/else if/else](if-statements.md)
 - [Variable Assignment](variable-assignment.md)
+- [Functions without Arguments](functions-with-no-arguments.md)
+- [Functions with Arguments](functions-with-arguments.md)
