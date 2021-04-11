@@ -29,7 +29,7 @@
 ## PHP
 
 ```php
- # create empty array
+    # create empty array
     $grades = []
     array_push($grades, 99); # push 1 element into the array
     array_push($grades,[100,200,300]); # add multiple elements into an array
