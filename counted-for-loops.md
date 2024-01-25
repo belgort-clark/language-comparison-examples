@@ -30,3 +30,18 @@ for($i=0; $i<5; $i++){
     echo $i;
 }
 ```
+
+## Counted Loop in C\#
+
+``` C#
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine(i);
+}
+
+// A more realistic example that makes the number of iterations dependent upon the size of the iterable object.
+for (int i = 0; i < grades.Length; i++)
+{
+    Console.WriteLine(grades[i]);
+}
+```

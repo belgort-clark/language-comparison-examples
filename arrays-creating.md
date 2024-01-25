@@ -38,3 +38,30 @@
     # Create a new array with string elements
     $students = ["Bruce","Sam","Julie","Tom"];
 ```
+
+## C\#
+
+``` C#
+// create an array
+int[] anArrayOfInts = new int[5];
+// arrays in C# are fixed in size and can't be dynamically resized. The size is specified when the array is created.
+
+// An equivalent dynamically resizable object is the generic list
+// create an empty list
+List<int> arrayOfInts = new List<int>();
+// note that the type of the List is defined with the type specified between the angle brackets
+
+arrayOfInts.Add(99); // append the value of 99 onto the end of the list
+int numberOfElements = arrayOfInts.Count; // returns the number of elements in the list
+
+int[] grades = { 100, 99, 90, 100, 65 };
+arrayOfInts.AddRange(grades); // adds the elements from an existing collection to the list
+arrayOfInts.RemoveAt(arrayOfInts.Count - 1); // remove last element from list
+
+// create a list from an existing array by passing the existing collection to the List constructor
+string[] studentNames = { "Bruce", "Sam", "Julie", "Tom" };
+List<string> students = new List<string>(studentNames);
+
+// create a list using initialization syntax
+List<string> students2 = new List<string> { "Bruce", "Sam", "Julie", "Tom" };
+```

@@ -26,3 +26,10 @@ Reference: [PHP.net](https://www.php.net/manual/en/language.operators.comparison
     $a = 42;
     echo ($a==42) ? "a is 42" : "a is not 42";
 ```
+
+## C\#
+
+``` C#
+int a = 42;
+Console.WriteLine(a == 42 ? "a is 42" : "a is not 42");
+```

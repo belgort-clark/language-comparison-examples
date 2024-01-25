@@ -28,6 +28,16 @@ Reference: [PHP.net](https://www.php.net/manual/en/control-structures.foreach.ph
 ```php
 $friends = ["Gayle","Tucker","Brandon","Erin"];
 foreach ($friends as $element) {
-    echo $element;
+  echo $element;
+}
+```
+
+## C\#
+
+``` C#
+string[] friends = { "Gayle", "Tucker", "Brandon", "Erin" };
+foreach (string element in friends) // not that the order is the reverse of PHP but the same as in Python and JavaScript
+{
+  Console.WriteLine(element);
 }
 ```

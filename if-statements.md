@@ -81,3 +81,36 @@ if($a >= $b){
     echo "a is less than b";
 }
 ```
+
+## C\#
+
+``` C#
+int a = 5;
+int b = 7;
+
+// basic if
+if (a >= b)
+{
+    Console.WriteLine("a is greater than or equal to b");
+}
+
+// if with else
+if (a >= b)
+{
+    Console.WriteLine("a is greater than or equal to b");
+}
+else
+{
+    Console.WriteLine("b is less than a");
+}
+
+// if with else if
+if (a >= b)
+{
+    Console.WriteLine("a is greater than or equal to b");
+}
+else if (a < b)
+{
+    Console.WriteLine("a is less than b");
+}
+```
