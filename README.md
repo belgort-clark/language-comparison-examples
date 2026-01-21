@@ -10,7 +10,7 @@ Examples are show for:
 Example code for:
 
 - [Creating Arrays](arrays-creating.md)
-- [Iterating Through Arrays](arrays-iterating-throgh.md)
+- [Iterating Through Arrays](arrays-iterating-through.md)
 - [Counted Loops (for loops)](counted-for-loops.md)
 - [Indefinite Loops (while loops)](indefinite-while-loops.md)
 - [If/else if/else](if-statements.md)

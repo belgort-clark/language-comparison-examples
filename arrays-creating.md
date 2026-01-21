@@ -30,10 +30,10 @@
 
 ```php
     # create empty array
-    $grades = []
+    $grades = [];
     array_push($grades, 99); # push 1 element into the array
     array_push($grades,[100,200,300]); # add multiple elements into an array
-    $lastGrade = array_pop($grades) # remove last element from array an store in lastGrade variable
+    $lastGrade = array_pop($grades); # remove last element from array an store in lastGrade variable
 
     # Create a new array with string elements
     $students = ["Bruce","Sam","Julie","Tom"];
